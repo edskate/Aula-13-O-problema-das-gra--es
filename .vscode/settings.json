@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "acentuação",
+<<<<<<< HEAD
         "acontece",
         "adequada",
         "Adriano",
@@ -108,4 +109,29 @@
         "verificar"
     ],
     "liveServer.settings.port": 5501
+=======
+        "alguma",
+        "Alura",
+        "concatenando",
+        "deixe",
+        "diferença",
+        "dúvida",
+        "Escreva",
+        "esqueça",
+        "exiba",
+        "fórum",
+        "Irmao",
+        "irmão",
+        "negativa",
+        "pintar",
+        "postar",
+        "precisa",
+        "Quantos",
+        "submeter",
+        "subtração",
+        "Supondo",
+        "testar",
+        "verificar"
+    ]
+>>>>>>> 7a0fc0c (Aul 12 +13 Var function com idade)
 }
