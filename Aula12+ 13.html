@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alura idade do meu irmão</title>
+</head>
+<body>
+    <h1> Quantos anos você tem de diferença do seu irmão?</h1>
+    <br>
+ <p>Escreva um programa que exiba a mensagem "Nossa diferença de idade é", concatenando o resultado da subtração da sua idade com a do seu irmão <b> (ou de um amigo).</b>A resposta pode dar negativa, sem dúvida. </p> 
+     <br>
+     
+     <p>Não esqueça de usar as funções pulaLinha e mostra e inclusive a tag <meta> para resolver problema de acentuação.</p>
+ 
+ <p>Você não precisa submeter a resposta, basta criar o programa, testar e verificar se tudo funciona.
+      <br> Se pintar alguma dúvida, não deixe de postar no fórum!</p>
+ 
+      <button>Supondo que eu tenha 18 anos e meu irmão 15, podemos fazer nosso programa da seguinte maneira:</button>
+ <br>
+      <script>
+         function pulaLinha() {
+             document.write("<br>");
+         }
+     
+         function mostra(frase) {
+             document.write(frase);
+         }
+     
+         var minhaIdade = 18;
+         var idadeIrmao = 15;
+     
+         mostra("Nossa diferença de idade é " + (minhaIdade - idadeIrmao));
+         pulaLinha();
+     </script>
+</body>
+</html>
